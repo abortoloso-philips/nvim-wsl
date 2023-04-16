@@ -1,2 +1,2 @@
 # nvim-wsl
-Config files os Neovim inside WSL2
+Neovim configuration files inside WSL2
